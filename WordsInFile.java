@@ -10,7 +10,6 @@ public class WordsInFile {
 	public WordsInFile () 
 	{
 		wordsinfile = new HashMap<String, ArrayList<String>>();
-		//filepaths = new ArrayList<String>();
 	}
 	
 	//method addWordsFromFile: read file word by word and add it the HashMap 
